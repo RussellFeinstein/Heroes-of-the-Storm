@@ -126,19 +126,6 @@ def main():
   plt.show()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   # Logistic Regression
   log_reg = LogisticRegression()
   log_reg.fit(x_train, y_train)
